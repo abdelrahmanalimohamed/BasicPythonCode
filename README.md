@@ -2,6 +2,6 @@
 
 <p align="center">
   <kbd>
-<img src="https://files.realpython.com/media/13-Python-Projects-for-Intermediate-Developers_Watermarked.bb98d44bdb10.jpg"></img>
+<img src="https://niit-enugu.com/wp-content/uploads/2021/01/beOFkU.jpg"></img>
   </kbd>
 </p>
